@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\bin\Debug\lang.ini
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\bin\Debug\Urbek.dll
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\bin\Debug\Urbek.pdb
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\obj\Debug\Urbek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\obj\Debug\Urbek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\obj\Debug\Urbek.csproj.Up2Date
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\obj\Debug\Urbek.dll
+C:\Users\Administrator\Desktop\example\ubcmod0\ClassLibrary1\obj\Debug\Urbek.pdb
